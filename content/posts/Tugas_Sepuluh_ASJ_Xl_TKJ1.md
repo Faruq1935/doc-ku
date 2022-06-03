@@ -8,9 +8,9 @@ tags: "Administrasi_Sistem_Jaringan"
 **Nama : Muhammad Faruq Syarifudin**
 **No Nisn : 5925**
 **Kelas : Xl TKJ 1**
-**Tugas 12 B-6 hal 138-153**
+**Tugas 10 B-6 cara install samba dan quota di debian 8 untuk membatasi penyimpanan setiap user**
 
-Cara install dan konfigurasi file sharing samba dengan quota di Debian 11
+Cara install dan konfigurasi file sharing samba dengan quota di Debian 8
 
 
 Install sistem operasi Debian 11 untuk Sisi server.
