@@ -1,0 +1,4 @@
+baseURL = ''
+languageCode = 'id-id'
+title = 'Website Tugas Faruq'
+theme = "hugo-theme-sk2"
