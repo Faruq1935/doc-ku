@@ -4,6 +4,11 @@ date: 2022-06-03T19:16:34+07:00
 draft: false
 tags: "Administrasi_Sistem_Jaringan"
 ---
+**Nama : Muhammad Faruq Syarifudin**
+**No Nisn : 5925**
+**Kelas : Xl TKJ 1**
+**Tugas 12 B-6 hal 138-153**
+
 
 **Nama : Muhammad Faruq Syarifudin**
 **No Nisn : 5925**
