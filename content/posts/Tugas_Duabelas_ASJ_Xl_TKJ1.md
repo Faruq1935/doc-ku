@@ -5,14 +5,11 @@ draft: false
 tags: "Administrasi_Sistem_Jaringan"
 ---
 **Nama : Muhammad Faruq Syarifudin**
-**No Nisn : 5925**
-**Kelas : Xl TKJ 1**
-**Tugas 12 B-6 hal 138-153**
 
-
-**Nama : Muhammad Faruq Syarifudin**
 **No Nisn : 5925**
+
 **Kelas : Xl TKJ 1**
+
 **Tugas 12 B-6 hal 138-153**
 
 Kerjakanlah soal esai di bawah ini dengan benar disertai dengan sumber jawabannya!
