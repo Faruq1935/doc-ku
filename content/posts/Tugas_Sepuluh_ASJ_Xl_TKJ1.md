@@ -15,7 +15,7 @@ tags: "Administrasi_Sistem_Jaringan"
 
 Cara install dan konfigurasi file sharing samba dengan quota di Debian 8
 
-**==========================================================================================================**
+*===*
 
 1. Install sistem operasi Debian 11 untuk Sisi server.
 
