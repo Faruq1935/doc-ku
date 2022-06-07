@@ -38,8 +38,8 @@ read-only = no dan tambahkan di bawahnya security = user
 
 10. Kemudian tambahkan repo nya :
 edit source list dengan perinth nano /etc/apt /source.list
-# deb-src http://ftp.us.debian.org/debian/ jessie-updates main contrib non-free
-# deb-src http://ftp.us.debian.org/debian/ jessie-updates main contrib non-free
+# deb http://ftp.us.debian.org/debian/ jessie main contrib non-free
+# deb-src http://ftp.us.debian.org/debian/ jessie main contrib non-free
 seperti biasa setelah update repo haris update “apt update”
 
 11. Kita langsung ke quota disk dengan perintah "apt install quota" untuk menginstall quota disk pada Debian.
@@ -66,17 +66,13 @@ Hasilnya :
 
 17. Lanjutkan dengan “quotaon -v /”
 
-18. Lanjut dengan menambahkan user baru “adduser namasiswa” enter sampai ada pilihan y/n pilih y
-
-19. Password samba “smbpasswd -a namasiswa” ketik 123 enter sampai ada pilihan y/n pilih y
-
-20. Terakhir ketikan “edquota -u namasiswa”
+18. Terakhir ketikan “edquota -u namasiswa”
 hasilnya : ubah ukuran soft dari 0 ke 102400 lalu juga dengan hard dari 0 ke 102400
 
-21. Pengujina di lakukan di client windows dengan membuka file manager lalu klik kanan “This Pc” pilih map newtwork ketikan di kolom //192.168.23.2/namasiswa alamat ip tadi dari eth0
+19. Pengujina di lakukan di client windows dengan membuka file manager lalu klik kanan “This Pc” pilih map newtwork ketikan di kolom \\192.168.23.2\namasiswa alamat ip tadi dari eth0
 
-22. masukan user namasisawa dan password 123 klik enter
+20. masukan user namasisawa dan password 123 klik enter
 
-23. cobalah untuk mengirim file lebih dari 102400 jika gagal maka anda berhasil :D
+21. cobalah untuk mengirim file lebih dari 102400 jika gagal maka anda berhasil :D
 
-24. coba juga kirim file lebih kecil dari 102400 jika berhasil maka anda dapar nilai dari guru kalian :D
+22. coba juga kirim file lebih kecil dari 102400 jika berhasil maka anda dapar nilai dari guru kalian :D
